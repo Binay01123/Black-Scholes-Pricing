@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Binay01123
+- 👋 Hi, I’m Binay Dhakal
 - 👀 I’m interested in Financial modeling and option pricing.
-- 🌱 I’m currently learning Machine learning in Python
+- 🌱 I’m currently learning Machine learning  w/ TensorFlow library in Python.
 - 
 - 📫 How to reach me?  EMail: binaydhakal01@gmai.com
 
