@@ -2,7 +2,7 @@
 - 👀 I’m interested in Financial modeling and option pricing.
 - 🌱 I’m currently learning Machine learning  w/ TensorFlow library in Python.
 - 
-- 📫 How to reach me?  EMail: binaydhakal01@gmai.com
+- 📫 How to reach me?  EMail: binaydhakal01@gmail.com
 
 <!---
 Binay01123/Binay01123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
