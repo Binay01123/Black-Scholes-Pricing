@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Binay Dhakal, Welcome to my GitWorld.
 - 📚 My academics concentration is in Statistics, Quantitaive Finance, Econometrics and Linear programming.
 - 👨‍💻 I'm Proficient in SQL, Python, R and SAS Base. 
-- 🎓 Graduated on May 6, 2021 from St. Cloud State University in Mathematical Economics.
+- 🎓 Graduated on May 6, 2021 from St. Cloud State University in Mathematical Economics (B.Sc).
 - ✉️ Contact me @ binaydhakal01@gmail.com
 
 <!---
