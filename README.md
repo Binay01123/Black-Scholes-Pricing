@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Binay Dhakal, Welcome to my GitWorld.
-- 👀 I’m interested in Financial modeling and both vanilla and exotic options pricing.
-- 🌱 I’m currently learning Machine learning  w/ TensorFlow library in Python.
-- 📫 Contact: binaydhakal01@gmail.com
+- 📚 My academics concentration is in Statistics, Quantitaive Finance, Econometrics and Linear programming.
+- 👨‍💻 I'm Proeficent in SQL, Python, R and SAS Base. 
+- 🎓 Graduated on May 6, 2021 from St. Cloud State University in Mathematical Economics.
+- ✉️ Contact me @ binaydhakal01@gmail.com
 
 <!---
 Binay01123/Binay01123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
